@@ -26,9 +26,12 @@ int main( void )
   //rcsc77First();
   tnrn9b1();
   tnrn9b2();
+    
   jpvc4_Sentence1();
   bar5z6Sentence1();
+  rbync_first();
   jpvc4_Sentence2();
+  rbync_second();
   amd2b7_sentence1();
   mjir4d_sentence1();
   pld9bc_2();
